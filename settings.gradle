@@ -1,0 +1,1 @@
+include ':app', ':adblock-android-4.1.2', ':adblock-android-settings-4.1.2', ':adblock-android-webview-4.1.2', ':annotations-20.1.0', ':timber-4.7.1'
